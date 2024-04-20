@@ -1,0 +1,14 @@
+Our World In Data Coronavirus Data: 
+Described in Readme file. Contains information about COVID-19 case, hospitalization, death, and vaccination rates (as well as generalized population information) by country from 5 January 2020 through 31 March 2024, when available.
+
+CDC Vaccination Trends (National):
+Uploaded to data folder. Contains US vaccination data describing the number or percentage of individuals who recieved a dosage by date and demographic category from 13 December 2020 through 10 May 2023. 
+
+CDC Vaccination Trends (Jurisdictional):
+Described in Readme file. Contains US vaccination data by state describing the number of individuals (compared to the census) who recieved a dosage by date and demographic category from 13 December 2020 through 10 May 2023. 
+
+Prem et al. 2017:
+Uploaded to data folder. Zip file contains contact matrix information for 152 countries at home, school, work, and overall described in 5 year age ranges from 0-80 years (16 categories). 
+
+Feehan and Mahmud 2021: 
+Described in Readme file. 
